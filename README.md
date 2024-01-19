@@ -1,4 +1,4 @@
 # Git-demo
 This is my first Git Repository.
 <br>
-Author - Vidhan Vardhan Soni.
+Author - Vidhan Vardhan Soni(NITH).
